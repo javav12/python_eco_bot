@@ -5,15 +5,6 @@ import os, random
 import requests
 import string
 
-"""
-todo interneten veri çek 
-
-todo reklam ver
-
-todo yeni özelikler getir
-
-todo wikipedia dan ctrl c/ctrl v yap ve kaynak belirt
-"""
 
 intents = discord.Intents.default()
 intents.message_content = True
